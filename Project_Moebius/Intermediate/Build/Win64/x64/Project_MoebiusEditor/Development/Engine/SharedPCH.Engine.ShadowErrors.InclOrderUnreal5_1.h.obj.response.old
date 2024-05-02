@@ -1,18 +1,19 @@
-C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\UnrealEditor\Inc\Project_Moebius\UHT\Project_Moebius.init.gen.cpp
+C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\Project_MoebiusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.cpp
 /I .
-/I C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\UnrealEditor\Inc\Project_Moebius\UHT
-/I C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Source
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I Runtime
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
-/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
+/I Runtime
+/I Runtime\Engine\Internal
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I Runtime\Core\Internal
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline\UHT
 /I Runtime\CoreOnline\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
+/I Runtime\CoreUObject\Public
+/I Runtime\CoreUObject\Internal
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore\UHT
 /I Runtime\Net\Core\Classes
 /I Runtime\Net\Core\Public
@@ -70,6 +71,7 @@ C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Interme
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationCore\UHT
 /I Runtime\AnimationCore\Public
 /I Runtime\PakFile\Public
+/I Runtime\PakFile\Internal
 /I Runtime\RSA\Public
 /I Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public
 /I Runtime\NetworkReplayStreaming
@@ -89,6 +91,7 @@ C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Interme
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AudioLinkCore\UHT
 /I Runtime\AudioLink\AudioLinkCore\Public
 /I Runtime\AudioLink
+/I Runtime\CookOnTheFly\Internal
 /I Runtime\Networking\Public
 /I Developer\TextureBuildUtilities\Public
 /I Developer
@@ -279,16 +282,14 @@ C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Interme
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\INCLUDE"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\Project_MoebiusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_Moebius\Definitions.Project_Moebius.h"
-/Yu"C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\Project_MoebiusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/Yc"C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\Project_MoebiusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
 /Fp"C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\Project_MoebiusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_Moebius\Project_Moebius.init.gen.cpp.obj"
-/sourceDependencies C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_Moebius\Project_Moebius.init.gen.cpp.dep.json
+/Fo"C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\Project_MoebiusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+/sourceDependencies C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\Project_MoebiusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.dep.json
 /Zc:inline
 /nologo
 /Oi

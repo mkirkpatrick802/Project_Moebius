@@ -279,10 +279,10 @@ C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Source\
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\INCLUDE"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
 /FI"C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\Project_MoebiusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
 /FI"C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_Moebius\Definitions.Project_Moebius.h"
 /Yu"C:\Users\mKirkpatrick\Documents\Projects\Project_Moebius\Project_Moebius\Intermediate\Build\Win64\x64\Project_MoebiusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
